@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\visual studio\Music\Music\Music\Source.cpp(203,61): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  BaseObject.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+Source.obj : warning LNK4248: unresolved typeref token (01000018) for 'SDL_Window'; image may not run
+Source.obj : warning LNK4248: unresolved typeref token (01000019) for '_Mix_Music'; image may not run
+Source.obj : warning LNK4248: unresolved typeref token (0100001B) for 'SDL_Texture'; image may not run
+Source.obj : warning LNK4248: unresolved typeref token (0100001C) for 'SDL_Renderer'; image may not run
+  Music.vcxproj -> C:\visual studio\Music\Music\x64\Debug\Music.exe
